@@ -1,0 +1,2 @@
+yara-python==3.10.0
+pefile==2019.4.18
